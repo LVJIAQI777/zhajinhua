@@ -19,6 +19,7 @@ int main() {
     while (sign) {
         cout << "请输入玩家人数：";
         cin >> num_player;
+//        if(num_player)
         players = new Player[num_player];
 
         for (int i = 0; i < num_player; ++i) {

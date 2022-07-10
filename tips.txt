@@ -3,4 +3,6 @@
 *alt  ins    可以选择 快速生成  构造方法等等
 *ctrl alt L  格式化代码
 *alt enter  补全代码或提示错误更正
+ctrl / 注释
+ctrl d  复制当前行
 alt 7 查看当前类的 变量 方法  结构
