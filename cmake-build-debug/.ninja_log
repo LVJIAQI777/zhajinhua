@@ -1,0 +1,10 @@
+# ninja log v5
+599	761	6791442183681240	untitled3.exe	36c9ba547c50f6e4
+8	265	6791643470070689	build.ninja	c13bb1407b48de5c
+55	300	6791643616963617	CMakeFiles/untitled3.dir/Utils/BiJiao.cpp.obj	a2efd2037f6748ab
+75	301	6791643616973585	CMakeFiles/untitled3.dir/Utils/demo.cpp.obj	11710cccc979cef
+16	303	6791643616983587	CMakeFiles/untitled3.dir/Entity/Player.cpp.obj	ae69fb0193ca2652
+40	338	6791643617353593	CMakeFiles/untitled3.dir/Utils/Random_f.cpp.obj	33f667930dceaed5
+2	696	6791643620943584	CMakeFiles/untitled3.dir/main.cpp.obj	66ff53e5c0340847
+29	707	6791643621054155	CMakeFiles/untitled3.dir/Entity/Poker.cpp.obj	81c7f1bf43d49fae
+708	1250	6791643626458622	untitled3.exe	f3113035a0099df0
