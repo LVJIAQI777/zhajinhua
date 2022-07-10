@@ -5,4 +5,6 @@
 *alt enter  补全代码或提示错误更正
 ctrl / 注释
 ctrl d  复制当前行
+ctrl shift r 全局搜索代码
+shift shift 全局搜索文件
 alt 7 查看当前类的 变量 方法  结构
